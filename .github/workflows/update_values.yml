@@ -1,0 +1,37 @@
+name: Update Portfolio Values
+
+on:
+  schedule:
+    - cron: "0 * * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update_values:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: |
+          pip install -r requirements.txt
+
+      - name: Run evaluator
+        run: python update_portfolio_history.py
+
+      - name: Commit and push updates
+        run: |
+          git config user.name "Portfolio Evaluator Bot"
+          git config user.email "bot@github.com"
+          git add results/
+          git commit -m "Auto updated portfolio values ($(date))" || echo "No changes"
+          git push
