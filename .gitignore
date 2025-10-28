@@ -1,2 +1,4 @@
-.idea/AI_STOCK_BOT.iml
 /.idea
+/__pycache__
+/__pycache__
+*.pyc
