@@ -1,0 +1,43 @@
+name: Auto Rebalance Portfolios
+
+on:
+  schedule:
+    - cron: "0 3 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  rebalance:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: |
+          pip install -r requirements.txt
+
+      - name: Load environment variables
+        env:
+          HF_API_TOKEN: ${{ secrets.HF_API_TOKEN }}
+        run: |
+          echo "HF_API_TOKEN=${HF_API_TOKEN}" >> $GITHUB_ENV
+
+      - name: Run rebalance scheduler
+        run: python scheduler_portfolios.py
+
+      - name: Commit and push changes
+        run: |
+          git config user.name "Rebalance Bot"
+          git config user.email "bot@github.com"
+          git add results/
+          git commit -m "🔄 Auto rebalanced portfolios ($(date))" || echo "No changes"
+          git push
