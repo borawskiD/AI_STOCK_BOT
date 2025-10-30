@@ -127,3 +127,48 @@
 
 2025-10-29 03:42:40,Zakończono harmonogram aktualizacji wszystkich portfeli.
 
+2025-10-30 03:38:05,Start aktualizacji wszystkich portfeli
+
+2025-10-30 03:38:05,
+ Aktualizacja portfela: AI_STATIC.csv | Strategia=AI, Taktyka=STATIC
+2025-10-30 03:38:07,Tryb statyczny — brak rebalansu.
+2025-10-30 03:38:07,Zaktualizowano AI_STATIC.csv | Δ -0.34% | Wartość=$9,965.69
+
+2025-10-30 03:38:10,
+ Aktualizacja portfela: AI_REGULAR.csv | Strategia=AI, Taktyka=REGULAR
+2025-10-30 03:38:10,Zaktualizowano AI_REGULAR.csv | Δ -0.31% | Wartość=$9,969.08
+
+2025-10-30 03:38:13,
+ Aktualizacja portfela: RANDOM_REGULAR.csv | Strategia=RANDOM, Taktyka=REGULAR
+2025-10-30 03:38:14,Zaktualizowano RANDOM_REGULAR.csv | Δ -1.44% | Wartość=$9,856.18
+
+2025-10-30 03:38:17,
+ Aktualizacja portfela: RANDOM_STATIC.csv | Strategia=RANDOM, Taktyka=STATIC
+2025-10-30 03:38:18,Tryb statyczny — brak rebalansu.
+2025-10-30 03:38:18,Zaktualizowano RANDOM_STATIC.csv | Δ -1.83% | Wartość=$9,817.20
+
+2025-10-30 03:38:21,
+ Aktualizacja portfela: NEWS_TRIGGER.csv | Strategia=NEWS, Taktyka=TRIGGER
+2025-10-30 03:38:22,Spadki > 5.0% — rebalans wykonany.
+2025-10-30 03:38:22,Zaktualizowano NEWS_TRIGGER.csv | Δ -0.83% | Wartość=$9,917.50
+
+2025-10-30 03:38:25,
+ Aktualizacja portfela: NEWS_STATIC.csv | Strategia=NEWS, Taktyka=STATIC
+2025-10-30 03:38:25,Tryb statyczny — brak rebalansu.
+2025-10-30 03:38:25,Zaktualizowano NEWS_STATIC.csv | Δ -1.47% | Wartość=$9,853.23
+
+2025-10-30 03:38:28,
+ Aktualizacja portfela: NEWS_REGULAR.csv | Strategia=NEWS, Taktyka=REGULAR
+2025-10-30 03:38:29,Zaktualizowano NEWS_REGULAR.csv | Δ -1.16% | Wartość=$9,883.58
+
+2025-10-30 03:38:32,
+ Aktualizacja portfela: AI_TRIGGER.csv | Strategia=AI, Taktyka=TRIGGER
+2025-10-30 03:38:32,Spadki > 5.0% — rebalans wykonany.
+2025-10-30 03:38:32,Zaktualizowano AI_TRIGGER.csv | Δ -0.28% | Wartość=$9,972.46
+
+2025-10-30 03:38:35,
+ Aktualizacja portfela: RANDOM_TRIGGER.csv | Strategia=RANDOM, Taktyka=TRIGGER
+2025-10-30 03:38:35,Zaktualizowano RANDOM_TRIGGER.csv | Δ +1.27% | Wartość=$10,127.34
+
+2025-10-30 03:38:38,Zakończono harmonogram aktualizacji wszystkich portfeli.
+
