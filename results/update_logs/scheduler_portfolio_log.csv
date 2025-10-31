@@ -172,3 +172,47 @@
 
 2025-10-30 03:38:38,Zakończono harmonogram aktualizacji wszystkich portfeli.
 
+2025-10-31 03:38:24,Start aktualizacji wszystkich portfeli
+
+2025-10-31 03:38:24,
+ Aktualizacja portfela: AI_STATIC.csv | Strategia=AI, Taktyka=STATIC
+2025-10-31 03:38:25,Tryb statyczny — brak rebalansu.
+2025-10-31 03:38:25,Zaktualizowano AI_STATIC.csv | Δ -0.79% | Wartość=$9,920.88
+
+2025-10-31 03:38:28,
+ Aktualizacja portfela: AI_REGULAR.csv | Strategia=AI, Taktyka=REGULAR
+2025-10-31 03:38:29,Zaktualizowano AI_REGULAR.csv | Δ -0.76% | Wartość=$9,924.08
+
+2025-10-31 03:38:32,
+ Aktualizacja portfela: RANDOM_REGULAR.csv | Strategia=RANDOM, Taktyka=REGULAR
+2025-10-31 03:38:32,Zaktualizowano RANDOM_REGULAR.csv | Δ -0.94% | Wartość=$9,905.74
+
+2025-10-31 03:38:35,
+ Aktualizacja portfela: RANDOM_STATIC.csv | Strategia=RANDOM, Taktyka=STATIC
+2025-10-31 03:38:36,Tryb statyczny — brak rebalansu.
+2025-10-31 03:38:36,Zaktualizowano RANDOM_STATIC.csv | Δ -2.58% | Wartość=$9,741.58
+
+2025-10-31 03:38:39,
+ Aktualizacja portfela: NEWS_TRIGGER.csv | Strategia=NEWS, Taktyka=TRIGGER
+2025-10-31 03:38:40,Zaktualizowano NEWS_TRIGGER.csv | Δ -0.94% | Wartość=$9,905.64
+
+2025-10-31 03:38:43,
+ Aktualizacja portfela: NEWS_STATIC.csv | Strategia=NEWS, Taktyka=STATIC
+2025-10-31 03:38:43,Tryb statyczny — brak rebalansu.
+2025-10-31 03:38:43,Zaktualizowano NEWS_STATIC.csv | Δ -0.81% | Wartość=$9,918.81
+
+2025-10-31 03:38:46,
+ Aktualizacja portfela: NEWS_REGULAR.csv | Strategia=NEWS, Taktyka=REGULAR
+2025-10-31 03:38:47,Zaktualizowano NEWS_REGULAR.csv | Δ -0.05% | Wartość=$9,994.51
+
+2025-10-31 03:38:50,
+ Aktualizacja portfela: AI_TRIGGER.csv | Strategia=AI, Taktyka=TRIGGER
+2025-10-31 03:38:50,Spadki > 5.0% — rebalans wykonany.
+2025-10-31 03:38:50,Zaktualizowano AI_TRIGGER.csv | Δ -0.90% | Wartość=$9,910.02
+
+2025-10-31 03:38:53,
+ Aktualizacja portfela: RANDOM_TRIGGER.csv | Strategia=RANDOM, Taktyka=TRIGGER
+2025-10-31 03:38:54,Zaktualizowano RANDOM_TRIGGER.csv | Δ -0.34% | Wartość=$9,965.59
+
+2025-10-31 03:38:57,Zakończono harmonogram aktualizacji wszystkich portfeli.
+
