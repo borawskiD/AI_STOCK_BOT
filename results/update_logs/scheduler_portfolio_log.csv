@@ -4494,3 +4494,49 @@
 
 2026-02-01 04:54:59,Zakończono harmonogram aktualizacji wszystkich portfeli.
 
+2026-02-02 04:50:44,Start aktualizacji wszystkich portfeli
+
+2026-02-02 04:50:44,
+ Aktualizacja portfela: AI_STATIC.csv | Strategia=AI, Taktyka=STATIC
+2026-02-02 04:50:45,Tryb statyczny — brak rebalansu.
+2026-02-02 04:50:45,Zaktualizowano AI_STATIC.csv | Δ +1.71% | Wartość=$10,170.52
+
+2026-02-02 04:50:48,
+ Aktualizacja portfela: AI_REGULAR.csv | Strategia=AI, Taktyka=REGULAR
+2026-02-02 04:50:48,Zaktualizowano AI_REGULAR.csv | Δ +1.85% | Wartość=$10,185.12
+
+2026-02-02 04:50:51,
+ Aktualizacja portfela: RANDOM_REGULAR.csv | Strategia=RANDOM, Taktyka=REGULAR
+2026-02-02 04:50:51,Zaktualizowano RANDOM_REGULAR.csv | Δ -12.48% | Wartość=$8,751.90
+
+2026-02-02 04:50:54,
+ Aktualizacja portfela: RANDOM_STATIC.csv | Strategia=RANDOM, Taktyka=STATIC
+2026-02-02 04:50:55,Tryb statyczny — brak rebalansu.
+2026-02-02 04:50:55,Zaktualizowano RANDOM_STATIC.csv | Δ -9.13% | Wartość=$9,087.47
+
+2026-02-02 04:50:58,
+ Aktualizacja portfela: NEWS_TRIGGER.csv | Strategia=NEWS, Taktyka=TRIGGER
+2026-02-02 04:50:58,Spadki > 5.0% — rebalans wykonany.
+2026-02-02 04:50:58,Zaktualizowano NEWS_TRIGGER.csv | Δ -6.74% | Wartość=$9,325.64
+
+2026-02-02 04:51:01,
+ Aktualizacja portfela: NEWS_STATIC.csv | Strategia=NEWS, Taktyka=STATIC
+2026-02-02 04:51:02,Tryb statyczny — brak rebalansu.
+2026-02-02 04:51:02,Zaktualizowano NEWS_STATIC.csv | Δ -2.45% | Wartość=$9,754.91
+
+2026-02-02 04:51:05,
+ Aktualizacja portfela: NEWS_REGULAR.csv | Strategia=NEWS, Taktyka=REGULAR
+2026-02-02 04:51:05,Zaktualizowano NEWS_REGULAR.csv | Δ -1.81% | Wartość=$9,818.61
+
+2026-02-02 04:51:08,
+ Aktualizacja portfela: AI_TRIGGER.csv | Strategia=AI, Taktyka=TRIGGER
+2026-02-02 04:51:08,Spadki > 5.0% — rebalans wykonany.
+2026-02-02 04:51:08,Zaktualizowano AI_TRIGGER.csv | Δ +4.58% | Wartość=$10,457.83
+
+2026-02-02 04:51:11,
+ Aktualizacja portfela: RANDOM_TRIGGER.csv | Strategia=RANDOM, Taktyka=TRIGGER
+2026-02-02 04:51:11,Spadki > 5.0% — rebalans wykonany.
+2026-02-02 04:51:11,Zaktualizowano RANDOM_TRIGGER.csv | Δ -2.50% | Wartość=$9,749.89
+
+2026-02-02 04:51:14,Zakończono harmonogram aktualizacji wszystkich portfeli.
+
