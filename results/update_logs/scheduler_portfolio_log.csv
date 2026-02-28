@@ -5690,3 +5690,49 @@
 
 2026-02-27 04:29:49,Zakończono harmonogram aktualizacji wszystkich portfeli.
 
+2026-02-28 04:11:12,Start aktualizacji wszystkich portfeli
+
+2026-02-28 04:11:12,
+ Aktualizacja portfela: AI_TRIGGER.csv | Strategia=AI, Taktyka=TRIGGER
+2026-02-28 04:11:13,Spadki > 5.0% — rebalans wykonany.
+2026-02-28 04:11:13,Zaktualizowano AI_TRIGGER.csv | Δ +2.79% | Wartość=$10,278.71
+
+2026-02-28 04:11:16,
+ Aktualizacja portfela: NEWS_REGULAR.csv | Strategia=NEWS, Taktyka=REGULAR
+2026-02-28 04:11:16,Zaktualizowano NEWS_REGULAR.csv | Δ +9.52% | Wartość=$10,951.57
+
+2026-02-28 04:11:19,
+ Aktualizacja portfela: AI_STATIC.csv | Strategia=AI, Taktyka=STATIC
+2026-02-28 04:11:20,Tryb statyczny — brak rebalansu.
+2026-02-28 04:11:20,Zaktualizowano AI_STATIC.csv | Δ +1.31% | Wartość=$10,131.27
+
+2026-02-28 04:11:23,
+ Aktualizacja portfela: RANDOM_REGULAR.csv | Strategia=RANDOM, Taktyka=REGULAR
+2026-02-28 04:11:23,Zaktualizowano RANDOM_REGULAR.csv | Δ -20.54% | Wartość=$7,945.94
+
+2026-02-28 04:11:26,
+ Aktualizacja portfela: RANDOM_TRIGGER.csv | Strategia=RANDOM, Taktyka=TRIGGER
+2026-02-28 04:11:26,Spadki > 5.0% — rebalans wykonany.
+2026-02-28 04:11:26,Zaktualizowano RANDOM_TRIGGER.csv | Δ -1.63% | Wartość=$9,837.35
+
+2026-02-28 04:11:29,
+ Aktualizacja portfela: AI_REGULAR.csv | Strategia=AI, Taktyka=REGULAR
+2026-02-28 04:11:29,Zaktualizowano AI_REGULAR.csv | Δ +1.49% | Wartość=$10,149.43
+
+2026-02-28 04:11:32,
+ Aktualizacja portfela: NEWS_STATIC.csv | Strategia=NEWS, Taktyka=STATIC
+2026-02-28 04:11:33,Tryb statyczny — brak rebalansu.
+2026-02-28 04:11:33,Zaktualizowano NEWS_STATIC.csv | Δ +8.10% | Wartość=$10,810.31
+
+2026-02-28 04:11:36,
+ Aktualizacja portfela: RANDOM_STATIC.csv | Strategia=RANDOM, Taktyka=STATIC
+2026-02-28 04:11:36,Tryb statyczny — brak rebalansu.
+2026-02-28 04:11:36,Zaktualizowano RANDOM_STATIC.csv | Δ -5.40% | Wartość=$9,459.96
+
+2026-02-28 04:11:39,
+ Aktualizacja portfela: NEWS_TRIGGER.csv | Strategia=NEWS, Taktyka=TRIGGER
+2026-02-28 04:11:39,Spadki > 5.0% — rebalans wykonany.
+2026-02-28 04:11:39,Zaktualizowano NEWS_TRIGGER.csv | Δ -7.88% | Wartość=$9,211.75
+
+2026-02-28 04:11:42,Zakończono harmonogram aktualizacji wszystkich portfeli.
+
