@@ -7484,3 +7484,49 @@
 
 2026-04-07 05:02:51,Zakończono harmonogram aktualizacji wszystkich portfeli.
 
+2026-04-08 05:03:49,Start aktualizacji wszystkich portfeli
+
+2026-04-08 05:03:49,
+ Aktualizacja portfela: NEWS_TRIGGER.csv | Strategia=NEWS, Taktyka=TRIGGER
+2026-04-08 05:03:51,Spadki > 5.0% — rebalans wykonany.
+2026-04-08 05:03:51,Zaktualizowano NEWS_TRIGGER.csv | Δ -6.54% | Wartość=$9,346.38
+
+2026-04-08 05:03:54,
+ Aktualizacja portfela: RANDOM_STATIC.csv | Strategia=RANDOM, Taktyka=STATIC
+2026-04-08 05:03:55,Tryb statyczny — brak rebalansu.
+2026-04-08 05:03:55,Zaktualizowano RANDOM_STATIC.csv | Δ -13.16% | Wartość=$8,683.57
+
+2026-04-08 05:03:58,
+ Aktualizacja portfela: NEWS_STATIC.csv | Strategia=NEWS, Taktyka=STATIC
+2026-04-08 05:03:59,Tryb statyczny — brak rebalansu.
+2026-04-08 05:03:59,Zaktualizowano NEWS_STATIC.csv | Δ +3.76% | Wartość=$10,375.83
+
+2026-04-08 05:04:02,
+ Aktualizacja portfela: AI_STATIC.csv | Strategia=AI, Taktyka=STATIC
+2026-04-08 05:04:02,Tryb statyczny — brak rebalansu.
+2026-04-08 05:04:02,Zaktualizowano AI_STATIC.csv | Δ -1.51% | Wartość=$9,849.39
+
+2026-04-08 05:04:05,
+ Aktualizacja portfela: RANDOM_TRIGGER.csv | Strategia=RANDOM, Taktyka=TRIGGER
+2026-04-08 05:04:06,Spadki > 5.0% — rebalans wykonany.
+2026-04-08 05:04:06,Zaktualizowano RANDOM_TRIGGER.csv | Δ -6.27% | Wartość=$9,373.09
+
+2026-04-08 05:04:09,
+ Aktualizacja portfela: RANDOM_REGULAR.csv | Strategia=RANDOM, Taktyka=REGULAR
+2026-04-08 05:04:10,Zaktualizowano RANDOM_REGULAR.csv | Δ -25.04% | Wartość=$7,496.46
+
+2026-04-08 05:04:13,
+ Aktualizacja portfela: AI_REGULAR.csv | Strategia=AI, Taktyka=REGULAR
+2026-04-08 05:04:13,Zaktualizowano AI_REGULAR.csv | Δ -1.39% | Wartość=$9,861.06
+
+2026-04-08 05:04:16,
+ Aktualizacja portfela: AI_TRIGGER.csv | Strategia=AI, Taktyka=TRIGGER
+2026-04-08 05:04:16,Spadki > 5.0% — rebalans wykonany.
+2026-04-08 05:04:16,Zaktualizowano AI_TRIGGER.csv | Δ -46.03% | Wartość=$5,397.13
+
+2026-04-08 05:04:19,
+ Aktualizacja portfela: NEWS_REGULAR.csv | Strategia=NEWS, Taktyka=REGULAR
+2026-04-08 05:04:20,Zaktualizowano NEWS_REGULAR.csv | Δ +5.65% | Wartość=$10,565.17
+
+2026-04-08 05:04:23,Zakończono harmonogram aktualizacji wszystkich portfeli.
+
