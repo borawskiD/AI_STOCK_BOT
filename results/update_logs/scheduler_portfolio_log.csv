@@ -8726,3 +8726,49 @@
 
 2026-05-04 05:53:56,Zakończono harmonogram aktualizacji wszystkich portfeli.
 
+2026-05-05 05:32:20,Start aktualizacji wszystkich portfeli
+
+2026-05-05 05:32:20,
+ Aktualizacja portfela: NEWS_TRIGGER.csv | Strategia=NEWS, Taktyka=TRIGGER
+2026-05-05 05:32:21,Spadki > 5.0% — rebalans wykonany.
+2026-05-05 05:32:21,Zaktualizowano NEWS_TRIGGER.csv | Δ -7.72% | Wartość=$9,227.53
+
+2026-05-05 05:32:24,
+ Aktualizacja portfela: NEWS_REGULAR.csv | Strategia=NEWS, Taktyka=REGULAR
+2026-05-05 05:32:24,Zaktualizowano NEWS_REGULAR.csv | Δ +18.14% | Wartość=$11,814.12
+
+2026-05-05 05:32:27,
+ Aktualizacja portfela: AI_TRIGGER.csv | Strategia=AI, Taktyka=TRIGGER
+2026-05-05 05:32:28,Spadki > 5.0% — rebalans wykonany.
+2026-05-05 05:32:28,Zaktualizowano AI_TRIGGER.csv | Δ -35.06% | Wartość=$6,494.23
+
+2026-05-05 05:32:31,
+ Aktualizacja portfela: RANDOM_STATIC.csv | Strategia=RANDOM, Taktyka=STATIC
+2026-05-05 05:32:32,Tryb statyczny — brak rebalansu.
+2026-05-05 05:32:32,Zaktualizowano RANDOM_STATIC.csv | Δ -9.07% | Wartość=$9,092.95
+
+2026-05-05 05:32:35,
+ Aktualizacja portfela: RANDOM_TRIGGER.csv | Strategia=RANDOM, Taktyka=TRIGGER
+2026-05-05 05:32:35,Spadki > 5.0% — rebalans wykonany.
+2026-05-05 05:32:35,Zaktualizowano RANDOM_TRIGGER.csv | Δ +15.06% | Wartość=$11,505.88
+
+2026-05-05 05:32:38,
+ Aktualizacja portfela: NEWS_STATIC.csv | Strategia=NEWS, Taktyka=STATIC
+2026-05-05 05:32:38,Tryb statyczny — brak rebalansu.
+2026-05-05 05:32:38,Zaktualizowano NEWS_STATIC.csv | Δ +16.40% | Wartość=$11,639.72
+
+2026-05-05 05:32:41,
+ Aktualizacja portfela: AI_STATIC.csv | Strategia=AI, Taktyka=STATIC
+2026-05-05 05:32:42,Tryb statyczny — brak rebalansu.
+2026-05-05 05:32:42,Zaktualizowano AI_STATIC.csv | Δ +26.27% | Wartość=$12,626.72
+
+2026-05-05 05:32:45,
+ Aktualizacja portfela: AI_REGULAR.csv | Strategia=AI, Taktyka=REGULAR
+2026-05-05 05:32:45,Zaktualizowano AI_REGULAR.csv | Δ +26.44% | Wartość=$12,644.02
+
+2026-05-05 05:32:48,
+ Aktualizacja portfela: RANDOM_REGULAR.csv | Strategia=RANDOM, Taktyka=REGULAR
+2026-05-05 05:32:48,Zaktualizowano RANDOM_REGULAR.csv | Δ -17.50% | Wartość=$8,250.26
+
+2026-05-05 05:32:51,Zakończono harmonogram aktualizacji wszystkich portfeli.
+
