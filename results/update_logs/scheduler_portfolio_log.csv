@@ -11072,3 +11072,49 @@
 
 2026-06-24 06:34:11,Zakończono harmonogram aktualizacji wszystkich portfeli.
 
+2026-06-25 06:37:28,Start aktualizacji wszystkich portfeli
+
+2026-06-25 06:37:28,
+ Aktualizacja portfela: AI_STATIC.csv | Strategia=AI, Taktyka=STATIC
+2026-06-25 06:37:28,Tryb statyczny — brak rebalansu.
+2026-06-25 06:37:28,Zaktualizowano AI_STATIC.csv | Δ +58.89% | Wartość=$15,889.07
+
+2026-06-25 06:37:31,
+ Aktualizacja portfela: RANDOM_REGULAR.csv | Strategia=RANDOM, Taktyka=REGULAR
+2026-06-25 06:37:32,Zaktualizowano RANDOM_REGULAR.csv | Δ -10.78% | Wartość=$8,922.20
+
+2026-06-25 06:37:35,
+ Aktualizacja portfela: RANDOM_STATIC.csv | Strategia=RANDOM, Taktyka=STATIC
+2026-06-25 06:37:35,Tryb statyczny — brak rebalansu.
+2026-06-25 06:37:35,Zaktualizowano RANDOM_STATIC.csv | Δ -3.86% | Wartość=$9,613.53
+
+2026-06-25 06:37:38,
+ Aktualizacja portfela: NEWS_TRIGGER.csv | Strategia=NEWS, Taktyka=TRIGGER
+2026-06-25 06:37:39,Spadki > 5.0% — rebalans wykonany.
+2026-06-25 06:37:39,Zaktualizowano NEWS_TRIGGER.csv | Δ +7.39% | Wartość=$10,738.83
+
+2026-06-25 06:37:42,
+ Aktualizacja portfela: AI_REGULAR.csv | Strategia=AI, Taktyka=REGULAR
+2026-06-25 06:37:42,Zaktualizowano AI_REGULAR.csv | Δ +59.74% | Wartość=$15,973.55
+
+2026-06-25 06:37:45,
+ Aktualizacja portfela: AI_TRIGGER.csv | Strategia=AI, Taktyka=TRIGGER
+2026-06-25 06:37:45,Spadki > 5.0% — rebalans wykonany.
+2026-06-25 06:37:45,Zaktualizowano AI_TRIGGER.csv | Δ -25.23% | Wartość=$7,477.28
+
+2026-06-25 06:37:48,
+ Aktualizacja portfela: NEWS_STATIC.csv | Strategia=NEWS, Taktyka=STATIC
+2026-06-25 06:37:48,Tryb statyczny — brak rebalansu.
+2026-06-25 06:37:48,Zaktualizowano NEWS_STATIC.csv | Δ +27.49% | Wartość=$12,749.35
+
+2026-06-25 06:37:51,
+ Aktualizacja portfela: RANDOM_TRIGGER.csv | Strategia=RANDOM, Taktyka=TRIGGER
+2026-06-25 06:37:52,Spadki > 5.0% — rebalans wykonany.
+2026-06-25 06:37:52,Zaktualizowano RANDOM_TRIGGER.csv | Δ +22.68% | Wartość=$12,267.68
+
+2026-06-25 06:37:55,
+ Aktualizacja portfela: NEWS_REGULAR.csv | Strategia=NEWS, Taktyka=REGULAR
+2026-06-25 06:37:55,Zaktualizowano NEWS_REGULAR.csv | Δ +27.59% | Wartość=$12,758.65
+
+2026-06-25 06:37:58,Zakończono harmonogram aktualizacji wszystkich portfeli.
+
