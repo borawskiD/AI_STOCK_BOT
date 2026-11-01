@@ -17006,3 +17006,49 @@
 
 2026-10-31 09:01:00,Zakończono harmonogram aktualizacji wszystkich portfeli.
 
+2026-11-01 09:50:56,Start aktualizacji wszystkich portfeli
+
+2026-11-01 09:50:56,
+ Aktualizacja portfela: NEWS_REGULAR.csv | Strategia=NEWS, Taktyka=REGULAR
+2026-11-01 09:50:57,Zaktualizowano NEWS_REGULAR.csv | Δ +5.55% | Wartość=$10,554.60
+
+2026-11-01 09:51:00,
+ Aktualizacja portfela: NEWS_STATIC.csv | Strategia=NEWS, Taktyka=STATIC
+2026-11-01 09:51:01,Tryb statyczny — brak rebalansu.
+2026-11-01 09:51:01,Zaktualizowano NEWS_STATIC.csv | Δ +5.26% | Wartość=$10,526.12
+
+2026-11-01 09:51:04,
+ Aktualizacja portfela: AI_REGULAR.csv | Strategia=AI, Taktyka=REGULAR
+2026-11-01 09:51:04,Zaktualizowano AI_REGULAR.csv | Δ +3.81% | Wartość=$10,380.94
+
+2026-11-01 09:51:07,
+ Aktualizacja portfela: RANDOM_STATIC.csv | Strategia=RANDOM, Taktyka=STATIC
+2026-11-01 09:51:08,Tryb statyczny — brak rebalansu.
+2026-11-01 09:51:08,Zaktualizowano RANDOM_STATIC.csv | Δ -12.27% | Wartość=$8,773.38
+
+2026-11-01 09:51:11,
+ Aktualizacja portfela: NEWS_TRIGGER.csv | Strategia=NEWS, Taktyka=TRIGGER
+2026-11-01 09:51:11,Spadki > 5.0% — rebalans wykonany.
+2026-11-01 09:51:11,Zaktualizowano NEWS_TRIGGER.csv | Δ -9.40% | Wartość=$9,059.71
+
+2026-11-01 09:51:14,
+ Aktualizacja portfela: RANDOM_TRIGGER.csv | Strategia=RANDOM, Taktyka=TRIGGER
+2026-11-01 09:51:15,Spadki > 5.0% — rebalans wykonany.
+2026-11-01 09:51:15,Zaktualizowano RANDOM_TRIGGER.csv | Δ -57.72% | Wartość=$4,227.89
+
+2026-11-01 09:51:18,
+ Aktualizacja portfela: RANDOM_REGULAR.csv | Strategia=RANDOM, Taktyka=REGULAR
+2026-11-01 09:51:18,Zaktualizowano RANDOM_REGULAR.csv | Δ +9.87% | Wartość=$10,987.34
+
+2026-11-01 09:51:21,
+ Aktualizacja portfela: AI_STATIC.csv | Strategia=AI, Taktyka=STATIC
+2026-11-01 09:51:21,Tryb statyczny — brak rebalansu.
+2026-11-01 09:51:21,Zaktualizowano AI_STATIC.csv | Δ +2.94% | Wartość=$10,294.03
+
+2026-11-01 09:51:24,
+ Aktualizacja portfela: AI_TRIGGER.csv | Strategia=AI, Taktyka=TRIGGER
+2026-11-01 09:51:25,Spadki > 5.0% — rebalans wykonany.
+2026-11-01 09:51:25,Zaktualizowano AI_TRIGGER.csv | Δ -98.59% | Wartość=$141.01
+
+2026-11-01 09:51:28,Zakończono harmonogram aktualizacji wszystkich portfeli.
+
