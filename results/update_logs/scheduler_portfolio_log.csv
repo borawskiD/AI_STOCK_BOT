@@ -18202,3 +18202,49 @@
 
 2026-11-26 11:38:02,Zakończono harmonogram aktualizacji wszystkich portfeli.
 
+2026-11-27 11:31:03,Start aktualizacji wszystkich portfeli
+
+2026-11-27 11:31:03,
+ Aktualizacja portfela: NEWS_STATIC.csv | Strategia=NEWS, Taktyka=STATIC
+2026-11-27 11:31:04,Tryb statyczny — brak rebalansu.
+2026-11-27 11:31:04,Zaktualizowano NEWS_STATIC.csv | Δ +3.39% | Wartość=$10,339.12
+
+2026-11-27 11:31:07,
+ Aktualizacja portfela: NEWS_TRIGGER.csv | Strategia=NEWS, Taktyka=TRIGGER
+2026-11-27 11:31:07,Spadki > 5.0% — rebalans wykonany.
+2026-11-27 11:31:07,Zaktualizowano NEWS_TRIGGER.csv | Δ -11.67% | Wartość=$8,833.04
+
+2026-11-27 11:31:10,
+ Aktualizacja portfela: NEWS_REGULAR.csv | Strategia=NEWS, Taktyka=REGULAR
+2026-11-27 11:31:11,Zaktualizowano NEWS_REGULAR.csv | Δ +3.49% | Wartość=$10,348.59
+
+2026-11-27 11:31:14,
+ Aktualizacja portfela: AI_TRIGGER.csv | Strategia=AI, Taktyka=TRIGGER
+2026-11-27 11:31:14,Spadki > 5.0% — rebalans wykonany.
+2026-11-27 11:31:14,Zaktualizowano AI_TRIGGER.csv | Δ -99.98% | Wartość=$2.28
+
+2026-11-27 11:31:17,
+ Aktualizacja portfela: RANDOM_STATIC.csv | Strategia=RANDOM, Taktyka=STATIC
+2026-11-27 11:31:17,Tryb statyczny — brak rebalansu.
+2026-11-27 11:31:17,Zaktualizowano RANDOM_STATIC.csv | Δ -11.17% | Wartość=$8,882.88
+
+2026-11-27 11:31:20,
+ Aktualizacja portfela: AI_REGULAR.csv | Strategia=AI, Taktyka=REGULAR
+2026-11-27 11:31:21,Zaktualizowano AI_REGULAR.csv | Δ -14.38% | Wartość=$8,562.48
+
+2026-11-27 11:31:24,
+ Aktualizacja portfela: AI_STATIC.csv | Strategia=AI, Taktyka=STATIC
+2026-11-27 11:31:24,Tryb statyczny — brak rebalansu.
+2026-11-27 11:31:24,Zaktualizowano AI_STATIC.csv | Δ -14.84% | Wartość=$8,516.19
+
+2026-11-27 11:31:27,
+ Aktualizacja portfela: RANDOM_REGULAR.csv | Strategia=RANDOM, Taktyka=REGULAR
+2026-11-27 11:31:27,Zaktualizowano RANDOM_REGULAR.csv | Δ +7.11% | Wartość=$10,711.40
+
+2026-11-27 11:31:30,
+ Aktualizacja portfela: RANDOM_TRIGGER.csv | Strategia=RANDOM, Taktyka=TRIGGER
+2026-11-27 11:31:30,Spadki > 5.0% — rebalans wykonany.
+2026-11-27 11:31:30,Zaktualizowano RANDOM_TRIGGER.csv | Δ -60.57% | Wartość=$3,943.30
+
+2026-11-27 11:31:33,Zakończono harmonogram aktualizacji wszystkich portfeli.
+
